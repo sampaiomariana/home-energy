@@ -13,6 +13,6 @@ This project consists of an energy monitoring system in smart homes.
 https://www.figma.com/proto/4hI9tznkCBsYQyC5mSxEVv/Home-energy-monitoring---Grupo-08?node-id=6%3A62&starting-point-node-id=6%3A62
 
 
-## KivyMD
+## Documentation
 
-https://kivy.org/doc/stable/installation/installation-linux.html
+https://streamlit.io/
