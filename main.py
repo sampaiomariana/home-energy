@@ -3,7 +3,7 @@ import streamlit as st
 import Pages.cadastro.usuario as user
 import Pages.cadastro.tomada as tomada
 import Pages.cadastro.dispositivo as dispositivo
-import home as home
+import Pages.home.home as home
 
 st.title('Home energy monitoring')
 
