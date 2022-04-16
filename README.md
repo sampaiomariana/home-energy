@@ -16,3 +16,16 @@ https://www.figma.com/proto/4hI9tznkCBsYQyC5mSxEVv/Home-energy-monitoring---Grup
 ## Documentation
 
 https://streamlit.io/
+
+## Requirements
+
+> pip install streamlit
+> pip install python
+> pip install numpy
+> pip install pandas
+> pip install matplotlib
+
+## Execution
+```
+streamlit run main.py
+```
