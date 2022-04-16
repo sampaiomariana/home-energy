@@ -4,6 +4,7 @@ import Pages.cadastro.usuario as user
 import Pages.cadastro.tomada as tomada
 import Pages.cadastro.dispositivo as dispositivo
 import Pages.home.home as home
+import Pages.dash.dash as dash
 
 st.title('Home energy monitoring')
 
@@ -23,4 +24,6 @@ if page_home == 'Cadastrar tomada':
    
 if page_home == 'Cadastrar dispositivo':
     dispositivo.dispositivo()
-   
+
+if page_home == 'Dashboard':
+    dash.dash()

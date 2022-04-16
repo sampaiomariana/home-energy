@@ -2,7 +2,7 @@ from os import write
 import streamlit as st
 
 def home():
-    st.subheader('Home energy monitoring')
+    #st.subheader('Home energy monitoring')
 
 
     with st.form(key = 'home'):
