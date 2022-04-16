@@ -20,9 +20,13 @@ https://streamlit.io/
 ## Requirements
 
 > pip install streamlit
+
 > pip install python
+
 > pip install numpy
+
 > pip install pandas
+
 > pip install matplotlib
 
 ## Execution
