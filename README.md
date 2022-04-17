@@ -17,7 +17,7 @@ https://www.figma.com/proto/4hI9tznkCBsYQyC5mSxEVv/Home-energy-monitoring---Grup
 
 https://streamlit.io/
 
-## Requirements
+## Requirements 
 
 > pip install streamlit
 

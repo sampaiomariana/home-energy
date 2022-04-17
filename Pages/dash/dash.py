@@ -31,7 +31,7 @@ def dash():
 
     #----SIDEBAR----
 
-    st.sidebar.header("Filre aqui:")
+    st.sidebar.header("Filtre aqui:")
 
     componente = st.sidebar.multiselect(
         "Selecione o componente:",
